@@ -1,0 +1,3 @@
+# $\texttt{neckar}$ - Non-linear Evolution with Complex Kernels for Accelerated Runs
+
+The code will be made public in the new future...
